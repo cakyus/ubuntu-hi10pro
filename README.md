@@ -13,6 +13,7 @@
 ### Miscellaneous
 
  1. Rotate to landscape on boot, this is useful as a quick temporary solution after installing ubuntu. Control Panel > Displays > Orientation : Portait Left.
+ 2. Disable automatic screen lock. Control Panel > Screen Lock > Automatically  Screen Lock : Off.
 
 #### TODO
 
