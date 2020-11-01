@@ -24,9 +24,9 @@
 
 | Part | Model | Notes |
 |-|-|-|
-| CPU | - | - |
-| Memory | - | - |
-| Disk | - | - |
+| CPU | Intel(R) Atom(TM) x5-Z8350 @1.44GHz | `/proc/cpuinfo` |
+| Memory | 3.857 MB | `free -m` |
+| Disk | 61.9 GB | `parted -l` |
 
 ## Installation
 
