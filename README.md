@@ -19,10 +19,13 @@
 
 ### Miscellaneous
 
+#### Bloatware
+
+ 1. Remove `update-manager`. I prefer update packages manually.
+
 #### TODO
  
  1. Automatically maximize application window. maximus ?
- 2. Disable sudoer password.
 
 ## Hardware
 
