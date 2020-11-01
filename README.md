@@ -33,7 +33,7 @@
 
 ## Installation
 
-This is my installation steps.
+These are my installation steps.
 
  1. Download [Ubuntu 20.04.1 LTS](https://releases.ubuntu.com/20.04.1/ubuntu-20.04.1-desktop-amd64.iso)
  2. Write to USB. Assuming your usb device on /dev/sde `dd if=ubuntu-20.04.1-desktop-amd64.iso of=/dev/sde`.
