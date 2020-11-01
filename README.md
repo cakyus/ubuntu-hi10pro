@@ -9,13 +9,16 @@
 | Touchpad | Working | Out of the box. |
 | Wifi | Working | Out of the box. |
 | Graphics | Working | Out of the box. |
+| Audio | Working | Out of the box. |
 
 ### Miscellaneous
 
- 1. Rotate to landscape on boot, this is useful as a quick temporary solution after installing ubuntu. Control Panel > Displays > Orientation : Portait Left.
+ 1. Rotate to landscape on boot. Control Panel > Displays > Orientation : Portait Left. This is useful as a quick temporary solution after installing ubuntu before you successfully configure accelerometer and screen rotation.
  2. Disable automatic screen lock. Control Panel > Screen Lock > Automatically  Screen Lock : Off.
 
 #### TODO
+ 
+ 1. Automatically maximize application window. maximus ?
 
 ## Hardware
 
