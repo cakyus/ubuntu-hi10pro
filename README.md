@@ -11,10 +11,13 @@
 | Graphics | Working | Out of the box. |
 | Audio | Working | Out of the box. |
 
-### Miscellaneous
+### Things To Do After Ubuntu Installation
 
- 1. Rotate to landscape on boot. Control Panel > Displays > Orientation : Portait Left. This is useful as a quick temporary solution after installing ubuntu before you successfully configure accelerometer and screen rotation.
- 2. Disable automatic screen lock. Control Panel > Screen Lock > Automatically  Screen Lock : Off.
+ 1. Rotate to landscape on boot. Settings > Displays > Orientation : Portait Left. This is useful as a quick temporary solution after installing ubuntu before you successfully configure accelerometer and screen rotation.
+ 2. Disable automatic screen lock. Settings > Screen Lock > Automatically  Screen Lock : Off.
+ 3. Large text. Settings > Universal Access > Large Text : On.
+
+### Miscellaneous
 
 #### TODO
  
