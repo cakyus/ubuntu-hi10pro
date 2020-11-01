@@ -30,6 +30,8 @@
 
 ## Installation
 
+This is my installation steps.
+
  1. Download [Ubuntu 20.04.1 LTS](https://releases.ubuntu.com/20.04.1/ubuntu-20.04.1-desktop-amd64.iso)
  2. Write to USB. Assuming your usb device on /dev/sde `dd if=ubuntu-20.04.1-desktop-amd64.iso of=/dev/sde`.
  3. Insert the USB Device into a USB port on Chuwi.
@@ -37,4 +39,8 @@
  5. Press `F7` repeatly until you see "Select device to boot".
  6. Choose your USB Device.
  7. Choose minimal installation.
- 8. Continue until Ubuntu installation is complete.
+ 8. Choose erase disk and install ubuntu. WARNING: This will delete all files in disk.
+ 9. Continue until Ubuntu installation is complete.
+
+## References
+
