@@ -12,9 +12,9 @@
 
 ### Miscellaneous
 
-#### TODO
+ 1. Rotate to landscape on boot, this is useful as a quick temporary solution after installing ubuntu. Control Panel > Displays > Orientation : Portait Left.
 
- 1. Rotate on boot
+#### TODO
 
 ## Hardware
 
@@ -30,7 +30,7 @@
  2. Write to USB. Assuming your usb device on /dev/sde `dd if=ubuntu-20.04.1-desktop-amd64.iso of=/dev/sde`.
  3. Insert the USB Device into a USB port on Chuwi.
  4. Press power button.
- 5. Press `F7` repeatly until you see "Select device to boot shown"
+ 5. Press `F7` repeatly until you see "Select device to boot".
  6. Choose your USB Device.
  7. Choose minimal installation.
  8. Continue until Ubuntu installation is complete.
