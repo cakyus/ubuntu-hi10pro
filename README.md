@@ -22,6 +22,7 @@
 #### TODO
  
  1. Automatically maximize application window. maximus ?
+ 2. Disable sudoer password.
 
 ## Hardware
 
