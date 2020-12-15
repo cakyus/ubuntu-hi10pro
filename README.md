@@ -17,17 +17,6 @@
  2. Disable automatic screen lock. Settings > Screen Lock > Automatically  Screen Lock : Off.
  3. Large text. Settings > Universal Access > Large Text : On.
 
-### Miscellaneous
-
-#### Bloatware
-
- 1. Remove `update-manager`. I prefer update packages manually.
- 2. Disable snap auto update. https://askubuntu.com/a/1270215/21086
-
-#### TODO
- 
- 1. Automatically maximize application window. maximus ?
-
 ## Hardware
 
 | Part | Model | Notes |
