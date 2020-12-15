@@ -4,12 +4,14 @@
 
 | Feature | Status | Notes |
 |-|-|-|
-| Booting | Working | Out of the box. Automatically boot to ubuntu, no need to select device to boot. |
+| Boot | Working | Out of the box. Automatically boot to ubuntu, no need to select device to boot. |
 | Keyboard | Working | Out of the box. |
 | Touchpad | Working | Out of the box. |
 | Wifi | Working | Out of the box. |
 | Graphics | Working | Out of the box. |
 | Audio | Working | Out of the box. |
+| Touchscreen | Not Working | |
+| Accelerometer | Not Working | |
 
 ### Things To Do After Ubuntu Installation
 
