@@ -27,6 +27,10 @@
 | Memory | 3.857 MB | `free -m` |
 | Disk | 61.9 GB | `parted -l` |
 
+## TODO
+
+ 1. Battery indicator is discharging when power cable is connected.
+
 ## Installation
 
 These are my installation steps.
