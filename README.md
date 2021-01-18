@@ -30,6 +30,7 @@
 ## TODO
 
  1. Battery indicator is discharging when power cable is connected.
+ 2. Accelerometer `bmc150_accel_i2c i2c-BOSC0200:00: Invalid chip 3`.
 
 ## Installation
 
@@ -46,8 +47,8 @@ These are my installation steps.
  9. Continue until Ubuntu installation is complete.
 
 ## References
- 
+
  1. https://github.com/danielotero/linux-on-hi10
  2. https://github.com/willyneutron/lubuntu_in_chuwi_Hi10Pro
  3. https://github.com/pk-personal/I1D6-C109S-Hi10Pro
- 
+
